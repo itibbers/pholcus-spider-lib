@@ -1,2 +1,3 @@
 # pholcus爬虫规则
-pholcus爬人民网新闻
+ - 人民网最新新闻
+ - IJGUC所有期刊
